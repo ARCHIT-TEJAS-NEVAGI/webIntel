@@ -11,3 +11,4 @@ langchain-core
 astrapy
 python-dotenv
 tiktoken
+sentence-transformers
